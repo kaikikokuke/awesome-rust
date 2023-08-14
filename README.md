@@ -386,6 +386,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [brocode/fblog](https://github.com/brocode/fblog) — Small command-line JSON Log viewer
 * [bustd](https://github.com/vrmiguel/bustd) - Lightweight process killer daemon to handle out-of-memory scenarios on Linux. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/vrmiguel/bustd/build-and-test)](https://github.com/vrmiguel/bustd/actions?query=branch%3Amaster)
 * [buster/rrun](https://github.com/buster/rrun) — A command launcher for Linux, similar to gmrun
+* [Byron/dua-cli](https://github.com/Byron/dua-cli) — dua (-> Disk Usage Analyzer) is a tool to conveniently learn about the usage of disk space of a given directory.
 * [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 * [crabz](https://github.com/sstadick/crabz) - Multi-threaded compression and decompression CLI tool [![Build Status](https://github.com/sstadick/crabz/workflows/Check/badge.svg)](https://github.com/sstadick/crabz/actions?query=workflow%3ACheck)
 * [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) — A configurable filesystem watcher inspired by [entr](http://eradman.com/entrproject/)
